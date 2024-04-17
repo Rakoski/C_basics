@@ -1,8 +1,16 @@
 # ninja log v5
-0	17	1711965196916879456	build.ninja	b253f7719eccdf30
-25	44	1711965184993423525	entendendo_c	daac3a6e568ced9
+0	17	1713341151988676086	build.ninja	b253f7719eccdf30
+2	41	1713341084702438146	CMakeFiles/entendendo_c.dir/variables.c.o	dbcc2d7706b92d8e
+19	39	1713341126505323914	entendendo_c	2291657015979075
+5	36	1713341084694438366	CMakeFiles/entendendo_c.dir/swapping.c.o	e2980d6e0d79c95
 1	27	1711965051866898646	CMakeFiles/untitled.dir/main.c.o	d9014363af7f7745
 1	21	1711965184969407586	CMakeFiles/entendendo_c.dir/arrays.c.o	cad1d333a1c93e66
 1	23	1711965051862903832	CMakeFiles/untitled.dir/arrays.c.o	4abb08d5d8b7f7dc
 27	46	1711965051886872718	untitled	45bc4b6f4d68c80c
-0	25	1711965184973410242	CMakeFiles/entendendo_c.dir/main.c.o	a6a010a55bb8a092
+0	19	1713341126485324432	CMakeFiles/entendendo_c.dir/main.c.o	a6a010a55bb8a092
+1	22	1713341175204104310	CMakeFiles/entendendo_c.dir/hello_world.c.o	2bd9c4a455c5d3ed
+1	22	1713341175204104310	CMakeFiles/entendendo_c.dir/main.c.o	a6a010a55bb8a092
+22	41	1713341175220103921	entendendo_c	8d4d8ee23c523b4b
+1	23	1713341265086029110	CMakeFiles/entendendo_c.dir/main.c.o	a6a010a55bb8a092
+1	24	1713341265086029110	CMakeFiles/entendendo_c.dir/hello_world.c.o	2bd9c4a455c5d3ed
+24	44	1713341265106028670	entendendo_c	8d4d8ee23c523b4b
