@@ -7,4 +7,5 @@ add_executable(entendendo_c main.c
         hello_world.c
         variables.c
         swapping.c
+        expressions.c
 )

@@ -8,6 +8,6 @@ int variables() {
     int var = 3;
     var = 4;
 
-    printf("%d: ", var);
+    printf("%d: \n", var);
     return 0;
 }

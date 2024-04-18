@@ -73,6 +73,12 @@ build CMakeFiles/entendendo_c.dir/swapping.c.o: C_COMPILER__entendendo_c_unscann
   OBJECT_DIR = CMakeFiles/entendendo_c.dir
   OBJECT_FILE_DIR = CMakeFiles/entendendo_c.dir
 
+build CMakeFiles/entendendo_c.dir/expressions.c.o: C_COMPILER__entendendo_c_unscanned_Debug /home/mateus/CLionProjects/entendendo_c/expressions.c || cmake_object_order_depends_target_entendendo_c
+  DEP_FILE = CMakeFiles/entendendo_c.dir/expressions.c.o.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/entendendo_c.dir
+  OBJECT_FILE_DIR = CMakeFiles/entendendo_c.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target entendendo_c
@@ -81,7 +87,7 @@ build CMakeFiles/entendendo_c.dir/swapping.c.o: C_COMPILER__entendendo_c_unscann
 #############################################
 # Link the executable entendendo_c
 
-build entendendo_c: C_EXECUTABLE_LINKER__entendendo_c_Debug CMakeFiles/entendendo_c.dir/main.c.o CMakeFiles/entendendo_c.dir/hello_world.c.o CMakeFiles/entendendo_c.dir/variables.c.o CMakeFiles/entendendo_c.dir/swapping.c.o
+build entendendo_c: C_EXECUTABLE_LINKER__entendendo_c_Debug CMakeFiles/entendendo_c.dir/main.c.o CMakeFiles/entendendo_c.dir/hello_world.c.o CMakeFiles/entendendo_c.dir/variables.c.o CMakeFiles/entendendo_c.dir/swapping.c.o CMakeFiles/entendendo_c.dir/expressions.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/entendendo_c.dir
   POST_BUILD = :
