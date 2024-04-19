@@ -4,6 +4,7 @@ int hello_world();
 void swap();
 int variables();
 int expressions();
+int sizes();
 
 
 int main() {
@@ -11,5 +12,6 @@ int main() {
     variables();
     expressions();
     printf("size is: %lu", sizeof(int));
+    sizes();
     return 0;
 }
