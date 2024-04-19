@@ -8,4 +8,5 @@ add_executable(entendendo_c main.c
         variables.c
         swapping.c
         expressions.c
+        sizes.c
 )

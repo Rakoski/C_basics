@@ -10,5 +10,6 @@ int main() {
     hello_world();
     variables();
     expressions();
+    printf("size is: %lu", sizeof(int));
     return 0;
 }
