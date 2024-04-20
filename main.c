@@ -12,7 +12,7 @@ int main() {
     hello_world();
     variables();
     expressions();
-    printf("size is: %lu", sizeof(int));
+    printf("size is: %lu\n", sizeof(int));
     sizes();
     limits();
     return 0;
