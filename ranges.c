@@ -29,7 +29,7 @@ int limits() {
            "The unsigned long range goes from %lu to %lu\n"
            "The signed long range goes from %ld to %ld\n"
            "The unsigned short range goes from %hu to %hu\n"
-           "The signed short range goes from %hd to %hd\n", 
+           "The signed short range goes from %hd to %hd\n",
            var1, var2, var3, var4, var5, var6, var7, var8, var9, var10, var11, var12);
 
     return 0;
