@@ -1,19 +1,20 @@
 #include <stdio.h>
 
-int hello_world();
-void swap();
-int variables();
-int expressions();
-int sizes();
-int limits();
+// Among the others that C provides are \t for tab, \b for backspace, \" for the double quote
+// and \\ for the backslash itself.
 
-
-int main() {
-    hello_world();
-    variables();
-    expressions();
-    printf("size is: %lu\n", sizeof(int));
-    sizes();
-    limits();
-    return 0;
+void main()
+{
+    printf("hello, ");
+    printf("world");
+    printf("\n");
+    printf("hello, ");
+    printf("world");
+    printf("\t");
+    printf("hello, ");
+    printf("world");
+    printf("\b");
+    printf("hello, ");
+    printf("world");
+    printf("\\");
 }

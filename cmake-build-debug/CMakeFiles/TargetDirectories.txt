@@ -1,3 +1,3 @@
-/home/mateus/CLionProjects/entendendo_c/cmake-build-debug/CMakeFiles/entendendo_c.dir
-/home/mateus/CLionProjects/entendendo_c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mateus/CLionProjects/entendendo_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mateus/projetos/CLionProjects/C_basics/cmake-build-debug/CMakeFiles/entendendo_c.dir
+/home/mateus/projetos/CLionProjects/C_basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mateus/projetos/CLionProjects/C_basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

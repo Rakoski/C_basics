@@ -1,4 +1,4 @@
-# Install script for directory: /home/mateus/CLionProjects/entendendo_c
+# Install script for directory: /home/mateus/projetos/CLionProjects/C_basics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/mateus/CLionProjects/entendendo_c/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mateus/projetos/CLionProjects/C_basics/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
